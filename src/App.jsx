@@ -16,7 +16,7 @@ function App() {
   return (
     <div className="container-fluid">
       <BrowserRouter>
-        <div className="row mt-5">
+        <div className="row mt-3">
           <div className="col-3">
             <div className="nav flex-column nav-pills" aria-orientation="vertical">
               <NavLink className="nav-link" to="profile">Профиль</NavLink>
